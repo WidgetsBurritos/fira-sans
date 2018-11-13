@@ -1,0 +1,22 @@
+{
+  "name": "fira",
+  "version": "1.0.0",
+  "description": "1. [Download composer](https://getcomposer.org/download/) 2. `git clone git@github.com:WidgetsBurritos/fira-tests.git` 3. `cd fira-tests` 4. `composer install` 5. `open index.html`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WidgetsBurritos/fira-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WidgetsBurritos/fira-tests/issues"
+  },
+  "homepage": "https://github.com/WidgetsBurritos/fira-tests#readme",
+  "dependencies": {
+    "mozilla-fira-pack": "0.0.1"
+  }
+}

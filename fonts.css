@@ -1,0 +1,30 @@
+
+@font-face{
+    font-family: 'Fira Sans';
+    src: url('node_modules/mozilla-fira-pack/Fira/eot/FiraSans-ExtraLight.eot');
+    src: url('node_modules/mozilla-fira-pack/Fira/eot/FiraSans-ExtraLight.eot') format('embedded-opentype'),
+         url('node_modules/mozilla-fira-pack/Fira/woff2/FiraSans-ExtraLight.woff2') format('woff2'),
+         url('node_modules/mozilla-fira-pack/Fira/woff/FiraSans-ExtraLight.woff') format('woff'),
+         url('node_modules/mozilla-fira-pack/Fira/ttf/FiraSans-ExtraLight.ttf') format('truetype');
+    font-weight: 100;
+}
+
+@font-face{
+    font-family: 'Fira Sans';
+    src: url('node_modules/mozilla-fira-pack/Fira/eot/FiraSans-Light.eot');
+    src: url('node_modules/mozilla-fira-pack/Fira/eot/FiraSans-Light.eot') format('embedded-opentype'),
+         url('node_modules/mozilla-fira-pack/Fira/woff2/FiraSans-Light.woff2') format('woff2'),
+         url('node_modules/mozilla-fira-pack/Fira/woff/FiraSans-Light.woff') format('woff'),
+         url('node_modules/mozilla-fira-pack/Fira/ttf/FiraSans-Light.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: 'Fira Sans';
+    src: url('node_modules/mozilla-fira-pack/Fira/eot/FiraSans-Regular.eot');
+    src: url('node_modules/mozilla-fira-pack/Fira/eot/FiraSans-Regular.eot') format('embedded-opentype'),
+         url('node_modules/mozilla-fira-pack/Fira/woff2/FiraSans-Regular.woff2') format('woff2'),
+         url('node_modules/mozilla-fira-pack/Fira/woff/FiraSans-Regular.woff') format('woff'),
+         url('node_modules/mozilla-fira-pack/Fira/ttf/FiraSans-Regular.ttf') format('truetype');
+    font-weight: 600;
+}
